@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+My+Name+Is+Luo+Zhang;Welcome+to+my+Github)
 <a href="https://ghfind.com/u/luozhang52?ref=badge">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/luozhang52?variant=radar&theme=dark&lang=zh" />
